@@ -11,3 +11,4 @@
 2. Abstractive Summarization: it uses new phrases and terms, different from the actual document, keeping the points the same, just like how we actually summarize. So, it is much harder than the extractive approach.
 #### LexRank
 https://www.aaai.org/Papers/JAIR/Vol22/JAIR-2214.pdf
+### Text to Image search
